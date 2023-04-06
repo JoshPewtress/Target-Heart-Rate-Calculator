@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Target Heart-Rate Calculator", "Target Heart-Rate Calculator.csproj", "{24DD53D4-A2B4-4349-B34D-7C5FD0ED2C2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24DD53D4-A2B4-4349-B34D-7C5FD0ED2C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DD53D4-A2B4-4349-B34D-7C5FD0ED2C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DD53D4-A2B4-4349-B34D-7C5FD0ED2C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DD53D4-A2B4-4349-B34D-7C5FD0ED2C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3653C0D7-66B1-4743-89B5-FE3227CF9417}
+	EndGlobalSection
+EndGlobal
